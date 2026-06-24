@@ -53,7 +53,7 @@ You need:
 
 - Python 3
 - a Zephyr ELF already built
-- the official `hss-payload-generator` if you want the final `.bin` payload
+- the official `hss-payload-generator` if you want the final `.bin` payload (the tests has been performed with [v2025.03](https://github.com/polarfire-soc/hart-software-services/releases/download/v2025.03/hss-payload-generator.zip))
 
 ## Supported variants
 
